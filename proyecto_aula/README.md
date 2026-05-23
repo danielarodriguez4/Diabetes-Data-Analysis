@@ -1,6 +1,5 @@
 # Caracterización de perfiles de pacientes diabéticos hospitalizados
 
-Proyecto final — Minería de Datos  
 Universidad de Antioquia · Facultad de Ingeniería
 
 ---
@@ -84,12 +83,3 @@ Dependencias (instaladas por defecto en Colab):
 ```
 pandas · numpy · matplotlib · seaborn · scikit-learn · scipy
 ```
-
----
-
-## Autores
-
-María Daniela Rodríguez Chacón · `mdaniela.rodriguez@udea.edu.co`  
-David Agudelo Ochoa · `david.agudeloo@udea.edu.co`
-
-Universidad de Antioquia — 2025
