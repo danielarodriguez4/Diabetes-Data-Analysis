@@ -40,9 +40,10 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 
 ```bash
 ├── 📁 proyecto_aula/
-
-│   └── py_nombre_apellidos_XX_nombre.ipynb
-│   └── py_informe_final_nombre_apellidos.pdf
+│   └── py_Daniela_Rodriguez_David_Agudelo.ipynb
+│   └── py_informe_final_Daniela_Rodríguez_David_Agudelo.pdf
+│   └── 📁images
+│   └── README.md
 ├── 📁 sesiones_practicas/\n",
 │ ├── sp_1_Daniela_Rodriguez_David_Agudelo.ipynb
 │ ├── sp_2_Daniela_Rodriguez_David_Agudelo.ipynb
