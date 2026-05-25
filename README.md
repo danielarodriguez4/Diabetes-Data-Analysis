@@ -39,7 +39,8 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 ## Estructura del repositorio
 
 ```bash
-├── 📁 proyecto_aula/\n",
+├── 📁 proyecto_aula/
+
 │   └── py_nombre_apellidos_XX_nombre.ipynb
 │   └── py_informe_final_nombre_apellidos.pdf
 ├── 📁 sesiones_practicas/\n",
@@ -50,7 +51,7 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 │ ├── sp_4_Daniela_Rodriguez_David_Agudelo.ipynb              
 └── sp_5_Daniela_Rodriguez_David_Agudelo.ipynb  
 ├── 📁 datos/
-│   └── dataset_procesado.csv
+│   └── diabetic_data.csv
 ├── 📁 recursos/
 │   └── referencias_bibliograficas.pdf
 └── README.md
