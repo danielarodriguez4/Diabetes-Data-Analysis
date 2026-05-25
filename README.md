@@ -38,6 +38,7 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 
 ## Estructura del repositorio
 
+```bash
 ├── 📁 proyecto_aula/\n",
 │   └── py_nombre_apellidos_XX_nombre.ipynb
 │   └── py_informe_final_nombre_apellidos.pdf
@@ -52,7 +53,8 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 │   └── dataset_procesado.csv
 ├── 📁 recursos/
 │   └── referencias_bibliograficas.pdf
-└── README.md\n",
+└── README.md
+```
 
 ---
 
