@@ -53,8 +53,6 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 └── sp_5_Daniela_Rodriguez_David_Agudelo.ipynb  
 ├── 📁 datos/
 │   └── diabetic_data.csv
-├── 📁 recursos/
-│   └── referencias_bibliograficas.pdf
 └── README.md
 ```
 
