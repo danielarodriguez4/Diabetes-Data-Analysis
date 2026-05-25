@@ -38,21 +38,21 @@ A lo largo del semestre se irán agregando actividades relacionadas con:
 
 ## Estructura del repositorio
 
-📁 Stress-Sleep-Patterns-Analysis/ │
-├── 📁 proyecto_aula/
-│ ├── file
-│
-├── 📁 sesiones_practicas/
+├── 📁 proyecto_aula/\n",
+│   └── py_nombre_apellidos_XX_nombre.ipynb
+│   └── py_informe_final_nombre_apellidos.pdf
+├── 📁 sesiones_practicas/\n",
 │ ├── sp_1_Daniela_Rodriguez_David_Agudelo.ipynb
 │ ├── sp_2_Daniela_Rodriguez_David_Agudelo.ipynb
-│
+│ ├── sp_3_Daniela_Rodriguez.ipynb
+│ ├── sp_3_David_Agudelo.ipynb
+│ ├── sp_4_Daniela_Rodriguez_David_Agudelo.ipynb              
+└── sp_5_Daniela_Rodriguez_David_Agudelo.ipynb  
 ├── 📁 datos/
-│ └── Smartphone_Usage_Productivity_Dataset_50000.csv
-│
+│   └── dataset_procesado.csv
 ├── 📁 recursos/
-│ └── file
-│
-└── README.md
+│   └── referencias_bibliograficas.pdf
+└── README.md\n",
 
 ---
 
